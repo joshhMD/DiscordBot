@@ -2,9 +2,9 @@
 
 Simple Discord bot for playing games and analyzing member data.<br />
 
-![Imgur Image]([Imgur](https://imgur.com/rZUKTfr))
+![Imgur](https://imgur.com/rZUKTfr)
 
-![Imgur Image]([Imgur](https://imgur.com/RjWdZTO))
+![Imgur](https://imgur.com/RjWdZTO)
 
 ## Built With
 
