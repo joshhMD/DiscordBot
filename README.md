@@ -2,9 +2,9 @@
 
 Simple Discord bot for playing games and analyzing member data.<br />
 
-<a href="https://imgur.com/a/j9uYES4"><img src="https://imgur.com/a/j9uYES4" title="Magic 8 Ball"/></a>
+![Imgur Image]([Imgur](https://imgur.com/rZUKTfr))
 
-<a href="https://imgur.com/a/1rvmHfk"><img src="https://imgur.com/a/1rvmHfk" title="Status"/></a>
+![Imgur Image]([Imgur](https://imgur.com/RjWdZTO))
 
 ## Built With
 
