@@ -1,0 +1,42 @@
+#Can use comments in configs
+Bot Token Variable Name: PandoBotToken
+
+Prefix: "!"
+
+Playing Status: "{prefix}help"
+
+Status: ['Online', 'Checking Messages', 'Analyzing Results']
+
+Log Channel ID: 726524361405890671
+
+Embed Settings:
+  Color:
+    r: 66
+    g: 207
+    b: 185
+
+  Footer:
+    Text: Your Footer Text!
+    Icon URL: https://i.pinimg.com/originals/17/f6/8e/17f68e401b36b8b87346557940a40970.png
+
+Responses:
+                ["It is certain.",
+                "It is decidedly so.",
+                "Without a doubt.",
+                "Yes - definitely.",
+                "You may rely on it.",
+                "As I see it, yes.",
+                "Most likely.",
+                "Outlook good.",
+                "Yes.",
+                "Signs point to yes.",
+                "Reply hazy, try again.",
+                "Ask again later.",
+                "Better not tell you now.",
+                "Cannot predict now.",
+                "Concentrate and ask again.",
+                "Don't count on it.",
+                "My reply is no.",
+                "My sources say no.",
+                "Outlook not so good.",
+                "Very doubtful."]
